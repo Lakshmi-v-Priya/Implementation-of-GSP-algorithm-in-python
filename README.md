@@ -115,7 +115,6 @@ else:
 ### Output:
 
 ![Screenshot 2024-09-14 090627](https://github.com/user-attachments/assets/48c1c7fd-6c13-4b86-9244-5305a5f0f113)
-
 ### Visualization:
 ```python
 import matplotlib.pyplot as plt
